@@ -1,0 +1,20 @@
+{
+  "name": "txttojson",
+  "version": "1.0.0",
+  "description": "Application for changing the format to a more convenient one",
+  "main": "scr/index.js",
+  "scripts": {
+    "start": "node scr/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KNOSERO/TXTtoJson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KNOSERO/TXTtoJson/issues"
+  },
+  "homepage": "https://github.com/KNOSERO/TXTtoJson#readme"
+}
